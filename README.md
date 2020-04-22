@@ -17,7 +17,7 @@ EDUCATIONAL PURPOSES
 
 
 ## Todo
-- [] Implement Cross Compile So That We Can Compile In Linux And Get Windows Executable
+- Implement Cross Compile So That We Can Compile In Linux And Get Windows Executable
 
 ## DISCLAIMER
 
