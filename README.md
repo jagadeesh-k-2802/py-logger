@@ -16,8 +16,7 @@ EDUCATIONAL PURPOSES
 * This Tool Is Not Intended To Harm Anyone Or Steal Any Information
 
 
-## Todo
-- Implement Cross Compile So That We Can Compile In Linux And Get Windows Executable
+- To Compile Windows Executable on Linux use Wine
 
 ## DISCLAIMER
 
