@@ -10,13 +10,11 @@ EDUCATIONAL PURPOSES
 * Turn On 'Less Secure Apps' In Your Google Settings
 * Open `pylogger.py` Replace `EMAIL` And `PASSWD` With Your Own
 * Run `compile.bat` On Windows (Only Tested On Windows)
+* To Compile Windows Executable on Linux use Wine
 * `dist` Folder Will Be Created Open It And Run The Executable On A Windows Machine
 * You Will Get An Mail From Yourself Saying That Connection Is Successful
 * To Disable It Stop The Background Process And Delete It From Startup Directory
 * This Tool Is Not Intended To Harm Anyone Or Steal Any Information
-
-
-- To Compile Windows Executable on Linux use Wine
 
 ## DISCLAIMER
 
